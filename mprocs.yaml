@@ -3,5 +3,3 @@ procs:
     cmd: ["npm","run","inngest:dev"]
   next:
     cmd: ["npm","run","dev"]
-  prisma-studio:
-    cmd: ["npx","prisma","studio"]
